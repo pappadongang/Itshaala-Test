@@ -14,7 +14,7 @@
     height: 650px;
 }
 .login{
-    background-color:antiquewhite;
+    background-color: antiquewhite;
     height: 400px;
     width: 400px;
     display: flex;
@@ -24,5 +24,5 @@
 }
 
 input{
-width: 210px;
+width: 190px;
 }
